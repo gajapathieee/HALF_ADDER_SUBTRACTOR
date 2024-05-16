@@ -2,8 +2,8 @@
 
 Implementation-of-Half-Adder-and-Half Subtractor-circuit
 ```
-Developed by: RAMPRASATH
-RegisterNumber: 212223220086
+Developed by: j.gajapathi
+RegisterNumber: 21222053002
 ```
 
 **AIM:**
